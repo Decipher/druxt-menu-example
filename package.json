@@ -1,0 +1,16 @@
+{
+  "name": "druxt-menu-example",
+  "version": "0.1.0",
+  "description": "DruxtJS Menu example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stuart Clark <stuart@realityloop.com>",
+  "license": "MIT",
+  "dependencies": {
+    "druxt-menu": "^0.4.0",
+    "druxt-router": "^0.16.0",
+    "nuxt": "^2.14.5"
+  }
+}
